@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://mymoonyue.github.io/about/index.html</loc>
+    
+    <lastmod>2020-12-23T08:07:51.442Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://mymoonyue.github.io/tags/index.html</loc>
     
     <lastmod>2020-12-22T09:22:05.715Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://mymoonyue.github.io/archives/index.html</loc>
     
     <lastmod>2020-12-22T09:22:05.656Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://mymoonyue.github.io/about/index.html</loc>
-    
-    <lastmod>2020-12-22T09:22:05.640Z</lastmod>
     
   </url>
   
